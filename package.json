@@ -6,6 +6,7 @@
   "private": false,
   "scripts": {
     "start": "node index.js"
+    "build": "echo \"no build ylk"\"
   },
   "dependencies": {
     "axios": "latest",
